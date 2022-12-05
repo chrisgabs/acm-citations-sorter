@@ -1,0 +1,19 @@
+[1] Accelya. 2022. About Us. (November 2022). Retrieved December 5, 2022 from https://w3.accelya.com/about-us/
+[2] Anon. 2002. S3. (2002). Retrieved December 5, 2022 from https://aws.amazon.com/s3/
+[3] Anon. Ransomware as a service (RAAS). Retrieved December 5, 2022 from https://www.trendmicro.com/vinfo/us/security/definition/ransomware-as-a-service-raa
+[4] Art Samaniego. 2022. Updated: Pal informs Mabuhay Miles members of a security incident. (September 2022). Retrieved December 5, 2022 from https://mb.com.ph/2022/09/11/pal-informs-mabuhay-miles-members-of-a-security-incident/
+[5] CNN Philippines Staff. 2022. Pal's Mabuhay Miles Suffers Data Breach. (September 2022). Retrieved December 5, 2022 from https://www.cnnphilippines.com/business/2022/9/11/PAL-Mabuhay-Miles-suffers-data-breach.html
+[6] Crowdstrike. 2022. Most common types of ransomware: CrowdStrike. (October 2022). Retrieved December 5, 2022 from https://www.crowdstrike.com/cybersecurity-101/ransomware/types-of-ransomware/
+[7] Elijah Felice Rosales. 2022. Data breach hits Mabuhay Miles | OneNews.PH. (September 2022). Retrieved December 5, 2022 from https://www.onenews.ph/articles/data-breach-hits-mabuhay-miles
+[8] Elijah Felice Rosales. 2022. Nearly 80% of Philippine firms hit by Data Breach. (November 2022). Retrieved December 5, 2022 from https://www.philstar.com/business/2022/11/30/2227344/nearly-80-philippine-firms-hit-data-breach
+[9] Elijah Felice Rosales. 2022. Pal Mabuhay Miles to tighten cybersecurity. (September 2022). Retrieved December 5, 2022 from https://www.philstar.com/business/2022/09/13/2209227/pal-mabuhay-miles-tighten-cybersecurity
+[10] Eric Fish. 2022. Ransomware gang highlights third-Party risk. (September 2022). Retrieved December 5, 2022 from https://www.privatefundscfo.com/ransomware-gang-highlights-third-party-risk/
+[11] Jonathan Greig. 2022. Major airline technology provider Accelya attacked by Ransomware Group. (August 2022). Retrieved December 5, 2022 from https://therecord.media/major-airline-technology-provider-accelya-attacked-by-ransomware-group/
+[12] Neil. 2022. Philippines 23rd most affected globally by data breaches in Q3. (October 2022). Retrieved December 5, 2022 from https://www.bworldonline.com/infographics/2022/10/28/483507/philippines-23rd-most-affected-globally-by-data-breaches-in-q3/
+[13] Pranjal Pande. 2022. Philippine Airlines suffers cyberattack with frequent flyer program. (September 2022). Retrieved December 5, 2022 from https://simpleflying.com/philippine-airlines-cyberattack-frequent-flier/
+[14] Raffy Ayeng. 2022. PAL reports 'Limited Data Breach' on Mabuhay Miles Holder - Daily Tribune. (September 2022). Retrieved December 5, 2022 from https://tribune.net.ph/2022/09/11/pal-reports-limited-data-breach-on-mabuhay-miles-holder/
+[15] Robert Lemos. 2022. Aggressive BlackCat ransomware on the rise. (January 2022). Retrieved December 5, 2022 from https://www.darkreading.com/threat-intelligence/aggressive-blackcat-ransomware-on-the-rise
+[16] Ted Cordero. 2022. PAL reports 'cybersecurity incident' in Mabuhay Miles Loyalty Program. (September 2022). Retrieved December 5, 2022 from https://www.gmanetwork.com/news/money/companies/844418/pal-reports-cybersecurity-incident-in-mabuhay-miles-loyalty-program/story/
+[17] Tiziana Celine Piatos. 2022. Pal uncovers cybersecurity threat. (September 2022). Retrieved December 5, 2022 from https://www.manilatimes.net/2022/09/12/business/top-business/pal-uncovers-cybersecurity-threat/1858153
+[18] Trellix. What is ransomware? Retrieved December 5, 2022 from https://www.trellix.com/en-us/security-awareness/ransomware/what-is-ransomware.html
+[19] Trend Micro. 2022. Ransomware spotlight: BlackCat. (October 2022). Retrieved December 5, 2022 from https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackcat
